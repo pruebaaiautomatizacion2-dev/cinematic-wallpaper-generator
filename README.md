@@ -38,3 +38,6 @@ This generator was built to showcase the power of **Modular AI Engineering**. By
 
 ---
 *Developed for AI Automation and Prompt Engineering research.*
+
+<img width="1287" height="724" alt="image" src="https://github.com/user-attachments/assets/4728863a-1577-428a-80c9-a283eb7273db" />
+
